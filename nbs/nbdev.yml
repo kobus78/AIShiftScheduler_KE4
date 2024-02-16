@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "AIShiftScheduler_KE4"
+  site-url: "https://kobus78.github.io/AIShiftScheduler_KE4"
+  description: "Attempt 4"
+  repo-branch: main
+  repo-url: "https://github.com/kobus78/AIShiftScheduler_KE4"
